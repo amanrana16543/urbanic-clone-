@@ -1,0 +1,165 @@
+.container{
+    background-color: white;
+}
+.heart{
+    height: 30px;
+    margin: 5px 20px auto 20px;
+}
+
+.headphone{
+    height: 30px;
+    margin: 5px 20px auto 30px;
+}
+
+.form-control.me-2{
+    margin:auto 10px auto 10px;
+}
+
+
+.buttons{
+    text-align: center;
+}
+
+.d-block.w-100px{
+    height: 530px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.nav-list-h{
+    list-style: none;
+    display: flex;
+    margin: auto;
+    font-weight:600;
+}
+
+.nav-list-h:hover{
+    list-style: none;
+    display: flex;
+    margin: auto;
+    border-color: 10px solid orangered;
+}
+
+.nav-list{
+    margin-right: 20px;
+    font-size: 13px;
+}
+
+.nav-list:hover{
+    margin-right: 20px;
+    font-size: 13px;
+    height: 2px;
+    background-color: orangered;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.container{
+    text-align: center;
+}
+.images-card{
+    display: inline-block;
+    margin: auto 10px auto;
+}
+
+.images-i{
+    height: 250px;  
+}
+
+.hr{
+    margin: auto;
+}
+
+.countdown{
+    display: flex;
+    margin: auto 50px auto;
+}
+
+.count{
+    padding: 10px;
+}
+
+.main h1{
+    text-align: left;
+    font-size: 30px;
+}.main h4{
+    font-size: 20px;
+}
+.main{
+    margin-right: 40px;
+}
+
+.count button{
+    background-color: yellow;
+    padding: 10px 10px 0px 10px;
+}
+
+
+.final-image {
+    width: 420px;
+    height: auto;
+}
+
+.hub4{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+.cont4{
+    border: solid 2px black ;
+    margin: 10px;
+}
+
+.img4{
+    height: 250px;
+}
+
+.shop-n{
+    background-color: black;
+    color: white;
+    padding-right: 30px;
+    padding-left: 10px;
+}
+
+.s-n-s{
+    margin-left: 90px;
+}
+
+.ward-btn{
+    background-color: rgb(228, 228, 14);
+}
+
+.em-ward{
+    margin-left: 70px;
+}
+
+.last-img{
+    height: 760px;
+}
+
+.top-btn{
+    padding: 10px;
+    margin: 10px;
+}
+
+.top-btn p{
+    padding-bottom: 0;
+}
+
+.percent{
+    color: orangered;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.cont4 h3{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.cont4 p{
+    color: grey;
+    text-decoration: line-through;
+}
